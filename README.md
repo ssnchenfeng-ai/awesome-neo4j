@@ -11,7 +11,7 @@ Sharing, suggestions and contributions are always welcome!
 
 Thanks to all [contributors](https://github.com/neo4j-contrib/awesome-neo4j/graphs/contributors).
 
-Maintained by Neo4j Developer Relations.
+Maintained by the [Neo4j community](https://community.neo4j.com).
 
 ## Contents
 
