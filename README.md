@@ -197,6 +197,9 @@ Neo4j graph database.
 
 * [Neo4j Certification](https://neo4j.com/graphacademy/neo4j-certification/) - Become a Neo4j-Certified Professional.
 
+
+### Cool stuff (data sets, use cases, etc)
+
 ---
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
