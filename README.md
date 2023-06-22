@@ -55,6 +55,7 @@ Maintained by the [Neo4j community](https://community.neo4j.com).
 
 ### Bolt
 
+* [neo4j-go-driver](https://github.com/neo4j/neo4j-go-driver) - Go driver for Neo4j binary protocol.
 * [neo4j-java-driver](https://github.com/neo4j/neo4j-java-driver) - Java driver for Neo4j binary protocol.
 * [neo4j-python-driver](https://github.com/neo4j/neo4j-python-driver) - Python driver for Neo4j binary protocol.
 * [neo4j-javascript-driver](https://github.com/neo4j/neo4j-javascript-driver) - JavaScript driver for Neo4j binary protocol.
