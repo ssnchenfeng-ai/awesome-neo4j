@@ -181,6 +181,7 @@ Neo4j graph database.
 * [Gephi](https://github.com/gephi/gephi) - Gephi is an award-winning open-source platform for visualizing and manipulating large graphs.
 * [Linkurious](https://linkurio.us/) - Linkurious helps search and visualize your graph data through a simple web-based interface.
 * [yFiles for HTML](https://www.yworks.com/products/yfiles-for-html) - yFiles is a commercial generic graph visualization programming library that comes with [a demo to visualize your neo4j databases in JavaScript](http://live.yworks.com/demos/#neo4j). It's also the basis for the [free neo4j Graph Explorer app](https://www.yworks.com/neo4j-explorer/).
+* [Chemical Graph Editor](https://github.com/ssnchenfeng-ai/chemical-graph-editor) - A visual P&ID editor that exports structure topology data directly to Neo4j.
 
 ## Tools
 
